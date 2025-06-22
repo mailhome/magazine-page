@@ -121,6 +121,6 @@
   }
 
   .width-container {
-    @apply container mx-auto px-2 sm:px-4 md:px-8
+    @apply sm:container mx-auto px-4 ;
   }
 }
